@@ -105,5 +105,3 @@ The Power BI dashboard includes:
 - Customer segmentation insights
 
 ---
-
-## 📁 Project Structure
